@@ -4,7 +4,7 @@
 
 🖥️ I previously worked as a Linux Systems Administrator working with cPanel and bare metal webhosting servers. I now work for a software company working primarily with SQL.
 
-🌱 I’m currently learning the following platforms:
+🌱 I am currently learning the following platforms:
 - Bash
 - SQL
 - Python
