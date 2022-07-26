@@ -2,7 +2,7 @@
 
 ### I am learning about how Github works, playing around with new webhosting technologies, and trying to learn all I can about programming.
 
-🖥️ I previously worked as a Linux Systems Administrator with cPanel and bare metal webhosting servers. I interfaced with customers to resolve issues relating to cPanel software and install custom software for my clients.
+🖥️ I previously worked as a Linux Systems Administrator working with cPanel and bare metal webhosting servers. I now work for a software company working primarily with SQL.
 
 🌱 I’m currently learning the following platforms:
 - Bash
